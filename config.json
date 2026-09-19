@@ -1,0 +1,9 @@
+{
+    "depth_mode": "point_cloud",
+    "rates": {
+        "mocap_fps": 360,
+        "target_fps": 60,
+        "there_fps": 60,
+        "zed_fps": 30
+    }
+}

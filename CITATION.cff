@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, data or the pretrained models, please cite the paper below."
+title: "Optical-Theremin"
+type: software
+license: MIT
+repository-code: "https://github.com/Sm3r/Optical-Theremin"
+authors:
+  - family-names: Sguario
+    given-names: Mario
+    affiliation: "University of Trento"
+preferred-citation:
+  type: conference-paper
+  title: "Issues and Challenges in Vision-Based Mid-Air Musical Instruments: Control Estimation in an Optical Theremin"
+  authors:
+    - family-names: Sguario
+      given-names: Mario
+      affiliation: "University of Trento"
+    - family-names: Garau
+      given-names: Nicola
+      affiliation: "University of Trento"
+    - family-names: Conci
+      given-names: Nicola
+      affiliation: "University of Trento"
+    - family-names: "Dal Rì"
+      given-names: "Francesco Ardan"
+      affiliation: "University of Trento"
+  conference:
+    name: "IEEE International Symposium on the Internet of Sounds (IS2)"
+  year: 2026
